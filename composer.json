@@ -3,6 +3,16 @@
     "description": "A short description of what your package does",
     "type": "library",
     "keywords": ["ryihan","ryihan2"],
+    "homepage": "https://github.com/Shadow-Developers-Inc/test-pakage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raihanrana",
+            "email": "ryihan55@gmail.com",
+            "homepage": "https://github.com/ryihan",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
