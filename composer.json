@@ -16,5 +16,11 @@
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
     }
 }
